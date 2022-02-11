@@ -7,4 +7,4 @@ To install, go to the Releases tab and download the latest release. Then, in Ble
 
 ## Contact
 
-This is still very early alpha software. If you spot any bugs, make sure to tell me. You can email me at thesam54123@gmail.com. If you feel you can improve apon this and the related repos, feel free to create a pull request.
+This is still very early alpha software. If you spot any bugs, make sure to tell me. You can email me at thesam54123@gmail.com. If you feel you can improve apon this and the related repos, feel free to create a pull request..
