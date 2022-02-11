@@ -15,7 +15,7 @@ bl_info = {
     "name" : "Minecraft Animation Tools",
     "author" : "Igrium",
     "description" : "Tools for animation in adventure maps",
-    "blender" : (2, 80, 0),
+    "blender" : (3, 0, 1),
     "version" : (0, 1, 0),
     "location" : "View3D",
     "warning" : "This addon is still in development.",
